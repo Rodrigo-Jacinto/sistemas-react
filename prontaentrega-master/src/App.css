@@ -1,0 +1,24 @@
+body,html {
+  height:100%;
+}
+.fundo-app {
+  background-image: url('fundo2.jpg');
+  background-position: top center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  height: 100%;
+}
+#root {
+  height:100%;
+}
+
+.cores {
+  background-color: #77aaec;
+}
+.bg {
+  background-color: rgba(0,0,0, 0.7) !important;
+}
+.tam {
+  width:20rem;
+}

@@ -1,0 +1,40 @@
+.github-search-title {
+    font-family: "Monaco";
+    font-size: 60px;
+    color: #000000;
+  }
+  
+  .github-search-title .text-style-1 {
+    font-family: "Raleway-Italic";
+    font-weight: 200;
+  }
+  
+  .search-input {
+    width: 660px;
+    height: 50px;
+    padding-top: 13px;
+    padding-left: 17px;
+    border-radius:0px;
+    font-family: "Raleway-Light";
+    font-size: 20px;
+    font-weight: 300;
+    color: #5c5c5c;
+  }
+  
+  .button-search {
+    width: 100px;
+    height: 50px;
+    border: 1px solid #ac53f2;
+    border-radius: 2px;
+    background-color: #ac53f2;
+  }
+  
+  .not-found-message {
+    font-family: "Raleway-Regular";
+    font-size: 40px;
+    color: #ac53f2;
+  }
+  
+  .link-home {
+    text-decoration: none !important;
+  } 

@@ -1,0 +1,56 @@
+.user-avatar {
+    width: 280px;
+    height: 280px;
+    border-radius: 2px;
+    display:block;
+
+  }
+
+.user-bio {
+  font-family:"Raleway-Light";
+  display:block;
+  font-size: 15px;
+  font-weight: 300;
+  color: #5c5c5c;
+
+  }
+
+
+
+.user-name {
+    font-family: "Raleway-Light";
+    display:block;
+    font-size: 35px;
+    font-weight: 300;
+    color: #000;
+    margin-bottom: 5px;
+  }
+
+  .user-login a {
+    font-family:"Raleway-Light";
+    display:block;
+    font-size: 20px;
+    font-weight: 300;
+    text-decoration: none;
+    color: #5c5c5c;
+  }
+
+ .properties-user {
+  padding-left: 0;
+ }
+
+  .properties-user li {
+   
+      font-family: "Raleway-Light";
+      display: block;
+      margin-bottom: 15px;
+      font-size: 20px;
+      font-weight: 300;
+      list-style-type: none;
+      color: #5c5c5c;
+  }
+
+  .properties-user li img {
+      display: inline-block;
+      margin-right: 7px;
+  }

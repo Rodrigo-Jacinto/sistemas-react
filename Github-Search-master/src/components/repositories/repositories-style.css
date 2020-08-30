@@ -1,0 +1,37 @@
+.repo-name {
+
+    font-family: "Raleway-Regular";
+    font-size: 35px;
+    color: #ac53f2;
+  }
+
+  .repo-description {
+
+    font-family:"Raleway-Light";
+    font-size: 20px;
+    font-weight: 300;
+    color: #000000;
+    display: block;
+  }
+
+
+  .star-count {
+    font-family: "Raleway";
+    font-size: 20px;
+    font-weight: 300;
+    color: #5c5c5c;
+    display: block;
+    margin-top: 10px;
+  }
+
+  .star-count img {
+    margin-right: 9px;    
+  }
+
+
+  @media only screen and (max-width: 767px) {
+    .repo-name {
+      font-size: 25px;
+    }
+
+  }
